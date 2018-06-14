@@ -98,6 +98,14 @@
 - how to initialize parameters in the Model with pytorch
 - partial parameters update
 
+##### Skills on training
+- attenuaton of lr
+- weight init
+- whiten
+- experience 
+- against overfitting
+- ensemble
+
 ##### Switch activation function
 ![switch](https://raw.githubusercontent.com/HuangYiran/readTech/master/fotos/switch.png)
 
