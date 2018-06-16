@@ -142,3 +142,12 @@
 - basic rules
 - multi files
 - gramma
+
+##### Processing for beginner
+- set, get and color
+- setup and draw
+- keyboard and mouse
+- image processing
+- translate, scale and rotate
+- 3D
+- physical effect
