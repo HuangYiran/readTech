@@ -13,6 +13,8 @@
 - 中英文共存
 
 ## Data mining
+##### Distribute system
+
 ##### matlab
 - to be continue....
 
@@ -29,7 +31,7 @@
 - add mode
 - mix mode
 
-##### useful packges in R
+##### Useful packges in R
 - main package
 - ggplot2
 - nlme
@@ -63,6 +65,8 @@
 - explain the differences between L1 and L2
 
 ## Machine Learning
+##### Cuda in Pytorch
+
 ##### Capsule
 - introduce
 - Dynamic Routing
